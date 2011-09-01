@@ -1,0 +1,1 @@
+SELECT ?s ?p ?o WHERE { { ?s ?p ?o . ?s ?p "Carcinoma of unknown primary origin (See Carcinoma of Unknown Primary)"} }

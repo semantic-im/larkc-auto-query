@@ -1,0 +1,4 @@
+PREFIX ged: <http://www.daml.org/2001/01/gedcom/gedcom#> SELECT ?name ?marriedOn FROM <http://www.daml.org/2001/01/gedcom/royal92.daml> WHERE { ?royal ged:title "Princess". ?royal ged:name ?name. ?royal ged:spouseIn ?family. ?family ged:marriage ?marriage. ?marriage ged:date ?marriedOn. }
+PREFIX ged: <http://www.daml.org/2001/01/gedcom/gedcom#> SELECT ?name ?marriedOn FROM  <http://www.daml.org/2001/01/gedcom/royal92.daml> WHERE { ?royal ged:title "Countess". ?royal ged:name ?name. ?royal ged:spouseIn ?family. ?family ged:marriage ?marriage. ?marriage ged:date ?marriedOn. }
+PREFIX ged: <http://www.daml.org/2001/01/gedcom/gedcom#> SELECT ?name FROM  <http://www.daml.org/2001/01/gedcom/royal92.daml> WHERE { ?royal ged:title "Earl". ?royal ged:name ?name . }
+PREFIX ged: <http://www.daml.org/2001/01/gedcom/gedcom#> SELECT ?name FROM <http://www.daml.org/2001/01/gedcom/royal92.daml> WHERE { ?royal ged:sex "F". ?royal ged:name ?name . }

@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix larkc: <http://larkc.eu/schema#> .
+
+# Define plug-in
+_:myPlugin a <urn:eu.larkc.plugin.reason.sparqldlreasoner.SPARQLDLReasonerPlugin> .
+_:myPlugin larkc:hasParameter _:pp2 .
+
+_:pp2 <urn:larkc.sparqldlreasoner.datasource> "http://users.utcluj.ro/~raluca/ontology/animals.rdf" .
+
+# Define a path to set the input and output of the workflow 
+_:path a larkc:Path .
+_:path larkc:hasInput _:myPlugin . 
+_:path larkc:hasOutput _:myPlugin . 
+
+# Connect an endpoint to the path 
+<urn:eu.larkc.endpoint.sparql.ep1> a <urn:eu.larkc.endpoint.sparql> .
+<urn:eu.larkc.endpoint.sparql.ep1> larkc:links _:path .

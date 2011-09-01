@@ -1,0 +1,5 @@
+/.settings
+/target
+/queries-to-execute/*/*
+/.classpath
+/.project

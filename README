@@ -1,0 +1,38 @@
+ABOUT
+=======
+LARKC Auto Query is intended to be used as tool to automate testing Larkc ( http://www.larkc.eu/ ) 
+by creating workflows and sending queries to them.
+
+
+DESCRIPTIOPN
+============
+LARKC Auto Query uses bash scripting and curl to connect to Larkc REST APIs, create workflows and 
+sending queries to them.
+
+In order for the script to work, a certain directory structure is expected. Directory 
+"queries-to-execute" should contain other directories, called workflow directories. Each of these 
+workflow directories must contain one file named "workflow.ttl" which should contain the workflow 
+intended to be created on Larkc. It should also contain one or more files named "queries*" or 
+"query*" which should contain the queries to send to the created Larkc workflow.
+Files named "queries*" are assumed to contain more than one query separated by new line.
+Files named "query*" are assumed to contain just one query (that can spawn on multiple lines).
+
+For each of the found "workflow directories", a new process is executed. This process will read the
+workflow.ttl file and send it to Larkc to create the workflow. Then queries will be read from the
+"query*" and "queries*" files and send one after another to the created Larkc workflow.
+
+Directory "examples" contain examples of such directory structure. Part of all of the examples directories
+can be copied into directory "queries-to-execute".
+
+
+CONFIGURATION
+=============
+File configuration.sh is the place where LARKC Auto Query can be configured.
+It allows to define larkc platform URL location and the workflows endpoint name. Endpoint name must match 
+the name from workflow description files (workflow.ttl).
+
+
+RUNNING
+=======
+LARKC Auto Query needs bash and curl in order to work. Also Larkc needs to be running.
+To start it up just execute "run.sh" script.

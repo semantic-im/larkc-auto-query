@@ -1,0 +1,1 @@
+SELECT ?s ?p ?o WHERE { { ?s ?p ?o . ?s ?p "Colles' fracture (See Wrist Fracture Treatment)"} }

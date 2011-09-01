@@ -1,0 +1,20 @@
+# Workflow Description
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix larkc: <http://larkc.eu/schema#> .
+
+# Define three plug-ins
+_:plugin1 a <urn:eu.larkc.plugin.identifier.gwas.GWASIdentifier> .
+_:plugin2 a <urn:eu.larkc.plugin.SOStoVBtransformer> .
+
+# Connect the plug-ins
+_:plugin1 larkc:connectsTo _:plugin2 .
+
+# Define a path to set the input and output of the workflow
+_:path a larkc:Path .
+_:path larkc:hasInput _:plugin1 .
+_:path larkc:hasInput _:plugin2 .
+_:path larkc:hasOutput _:plugin2 .
+
+# Connect an endpoint to the path
+<urn:eu.larkc.endpoint.sparql.ep1> a <urn:eu.larkc.endpoint.sparql> .
+<urn:eu.larkc.endpoint.sparql.ep1> larkc:links _:path .

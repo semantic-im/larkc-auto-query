@@ -1,0 +1,1 @@
+SELECT ?s ?p ?o WHERE { { ?s ?p ?o . ?s ?p "Cancers of the female reproductive tract (See Ovarian Cancer)"} }

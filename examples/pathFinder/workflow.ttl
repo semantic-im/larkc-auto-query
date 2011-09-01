@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix larkc: <http://larkc.eu/schema#> .
+
+_:plugin0 a <urn:eu.larkc.plugin.decider.SourceSplitter> .
+_:plugin0 larkc:connectsTo _:plugin1 .
+_:plugin0 larkc:connectsTo _:plugin2 .
+
+_:plugin1 a <urn:eu.larkc.plugin.identify.urbancomputing.ubl.RemoteGraphLoaderIdentifier> .
+_:plugin1 larkc:connectsTo _:plugin2 .
+
+_:plugin2 a <urn:eu.larkc.plugin.reason.urbancomputing.ubl.OpResPathFinderReasoner> .
+
+<urn:eu.larkc.endpoint.sparql.ep1> a <urn:eu.larkc.endpoint.sparql> .
+<urn:eu.larkc.endpoint.sparql.ep1> larkc:links _:path .
+
+_:path a larkc:Path .
+_:path larkc:hasInput _:plugin0 .
+_:path larkc:hasOutput _:plugin2 .
