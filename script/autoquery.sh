@@ -28,7 +28,6 @@ cd "$1"
 start_time=`date +%s`
 # read workflow
 workflow=`cat workflow*`
-echo "$1 - $workflow"
 # create workflow and obtain the id
 wid=`larkc_submit_workflow "$PLATFORM" "$workflow"`
 if [ $? -ne 0 ]; then
@@ -66,9 +65,9 @@ for queryfile in queries* ; do
 done
 # iterate over "query*" files
 # each file must contain only one query
-count=0
 for queryfile in query* ; do
 	if [ -f "$queryfile" ]; then
+		let count++
 		query=$(cat $queryfile)			
 		echo "$1 - Processing query $count from file $queryfile"
 		output_query=`larkc_file_query_endpoint "$endpoint" "$queryfile"`
@@ -76,8 +75,11 @@ for queryfile in query* ; do
 		sleep 1s
 	fi
 done
-# delete created workflow
-larkc_delete_workflow "$PLATFORM" "$wid"
-	
+# calculated total execution time
 end_time=`date +%s`
-echo "$1 - Execution time was `expr $end_time - $start_time` s."
+echo "$1 - Finished execution. Total execution time was `expr $end_time - $start_time` s."
+# try to delete created workflow
+workflow_delete_result=`larkc_delete_workflow "$PLATFORM" "$wid"`
+if [ $? -ne 0 ]; then
+	echo "$1 - Error deleting workflow $wid! Reason: $workflow_delete_result"
+fi
