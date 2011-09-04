@@ -15,6 +15,11 @@ if [ ! -f "$rundir/script/larkc-access-functions.sh" ]; then
 	exit 1
 fi
 
+if [ ! -f "$rundir/script/autoquery.sh" ]; then
+	echo "Error: autoquery.sh file not found!"
+	exit 1
+fi
+
 if [ ! -d "$rundir/queries-to-execute" ]; then
 	echo "Error: queries-to-execute directory not found!"
 	exit 1
