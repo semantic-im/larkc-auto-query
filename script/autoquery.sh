@@ -25,12 +25,7 @@ source "$rundir/larkc-access-functions.sh"
 
 # start processing workflow directory
 cd "$1"
-
-
-cq=0
-ec=0
 start_time=`date +%s`
-
 # read workflow
 workflow=`cat workflow*`
 echo "$1 - $workflow"
@@ -49,56 +44,39 @@ if [ $? -ne 0 ]; then
 fi
 echo "$1 - endpoint URL is: $endpoint"
 
-# iterate over "query*" files
-# they must contain one query per line
+# iterate over "queries*" files
+# each file can contain than one query that must be separated by line end terminator
 for queryfile in queries* ; do
 	if [ -f "$queryfile" ]; then
 		echo
-		echo "$1 - Reading query file $queryfile"
+		echo "$1 - Reading queries file $queryfile"
 		echo	
 		count=0		
 		while read query 
 		do
 			let count++
-			echo "$1 - $count > Processing $query"
+			echo "$1 - Processing query $count from file $queryfile"
 			output_query=`larkc_query_endpoint "$endpoint" "$query"`
-			echo "$1 - The output for query $query is $output_query"
-			echo "$1 - Done with query $query"
+			echo "$1 - Query $count from file $queryfile result output size is ${#output_query}"
 			echo
-			sleep 5s
+			sleep 1s
 		done < $queryfile		
-		echo "$1 - Processed $count queries from $queryfile"
+		echo "$1 - Finished processing $count queries from file $queryfile."
 	fi
 done
-
+# iterate over "query*" files
+# each file must contain only one query
+count=0
 for queryfile in query* ; do
 	if [ -f "$queryfile" ]; then
-		
-		let ec++
-		let cq++
-		
 		query=$(cat $queryfile)			
-		echo "$1 - entering queryEndpoint"
+		echo "$1 - Processing query $count from file $queryfile"
 		output_query=`larkc_file_query_endpoint "$endpoint" "$queryfile"`
-		echo "$1 - exit queryEndpoint"
-		
-		echo "$1 - <EXECUTION_$ec>"
-		
-		echo "$1 - <QUERY_$cq>"
-		#echo "$query"
-		echo "$1 - </QUERY_$cq>"
-		
-		echo "$1 - <RESULT_$cq>"
-		echo "$1 - $output_query"
-		echo "$1 - </RESULT_$cq>"
-		
-		echo "$1 - </EXECUTION_$ec>"
-		echo "$1 - <QUERY_FILE> $queryfile </QUERY_FILE>"
-		#DO A SLEEP for 5 seconds BEFORE SUBMITTING A NEW QUERY -- HOPE WE DON'T GET REJECTED BY LLD SERVER
-		sleep 5s
-
+		echo "$1 - Query $count from file $queryfile result output size is ${#output_query}"
+		sleep 1s
 	fi
 done
+# delete created workflow
 larkc_delete_workflow "$PLATFORM" "$wid"
 	
 end_time=`date +%s`
