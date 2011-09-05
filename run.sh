@@ -2,34 +2,36 @@
 # Main script for starting Larkc Auto Query.
 # See README for more info.
 
+# change to the directory where run.sh script is located
 rundir=`dirname $0`
+cd "$rundir"
 
 # check for existance of needed files and directories 
-if [ ! -f "$rundir/script/configuration.sh" ]; then
+if [ ! -f "./script/configuration.sh" ]; then
 	echo "Error: configuration.sh file not found!"
 	exit 1
 fi
 
-if [ ! -f "$rundir/script/larkc-access-functions.sh" ]; then
+if [ ! -f "./script/larkc-access-functions.sh" ]; then
 	echo "Error: larkc-access-functions.sh file not found!"
 	exit 1
 fi
 
-if [ ! -f "$rundir/script/autoquery.sh" ]; then
+if [ ! -f "./script/autoquery.sh" ]; then
 	echo "Error: autoquery.sh file not found!"
 	exit 1
 fi
 
-if [ ! -d "$rundir/queries-to-execute" ]; then
+if [ ! -d "./queries-to-execute" ]; then
 	echo "Error: queries-to-execute directory not found!"
 	exit 1
 fi
 
 # load configuration
-source "$rundir/script/configuration.sh"
+source "./script/configuration.sh"
 
 # load larkc access functions
-source "$rundir/script/larkc-access-functions.sh"
+source "./script/larkc-access-functions.sh"
 
 
 # before starting, make sure Larkc is running.
@@ -40,10 +42,11 @@ if [ "$?" -ne 0 ]; then
 fi
 
 # enumerate all directories from "queries-to-execute" directory
-cd "$rundir/queries-to-execute"
+cd "./queries-to-execute"
 for directory in * ; do
 	if [ -d "$directory" ]; then
-		"$rundir/script/autoquery.sh" "$directory" &
+		"../script/autoquery.sh" "$directory" &
 	fi
 done
-cd ..
+# wait for the launched jobs to finish
+wait
