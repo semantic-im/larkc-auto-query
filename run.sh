@@ -2,6 +2,11 @@
 # Main script for starting Larkc Auto Query.
 # See README for more info.
 
+
+# trap SIGHUP, SIGINT or SIGTERM signals and try to terminate all child processes before exit
+set -m
+trap 'echo "terminate signal received; trying to terminate all child processes and then exit."; for job in `jobs -p` ; do kill $job ; done ; exit 1;' SIGHUP SIGINT SIGTERM
+
 # change to the directory where run.sh script is located
 rundir=`dirname $0`
 cd "$rundir"

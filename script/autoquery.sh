@@ -3,6 +3,11 @@
 # workflow.ttl and then sends the queries from "query*" or "queries*" files to the
 # created workflow.
 
+
+# trap SIGHUP, SIGINT or SIGTERM signals and try to terminate all child processes before exit
+set -m
+trap 'echo "terminate signal received; trying to terminate all child processes and then exit."; for job in `jobs -p` ; do kill $job ; done ; exit 1;' SIGHUP SIGINT SIGTERM
+
 echo "$1 - Starting autoquery"
 
 # check that we were called with "workflow directory" as argument
@@ -71,8 +76,12 @@ for queryfile in query* ; do
 		query=$(cat $queryfile)			
 		echo "$1 - Processing query $count from file $queryfile"
 		output_query=`larkc_file_query_endpoint "$endpoint" "$queryfile"`
-		echo "$1 - Query $count from file $queryfile result output size is ${#output_query}"
-		sleep 1s
+		if [ $? -ne 0 ]; then
+			echo "$1 - Query $count from file $queryfile result ERROR: $output_query"
+		else
+			echo "$1 - Query $count from file $queryfile result output size is ${#output_query}"
+			sleep 1s
+		fi
 	fi
 done
 # calculated total execution time
