@@ -1,6 +1,6 @@
 ABOUT
 =======
-LARKC Auto Query is intended to be used as tool to automate testing Larkc ( http://www.larkc.eu/ ) 
+LARKC Auto Query is intended to be used as a tool to automate testing of Larkc ( http://www.larkc.eu/ ) 
 by creating workflows and sending queries to them.
 
 
@@ -8,6 +8,26 @@ DESCRIPTIOPN
 ============
 LARKC Auto Query uses bash scripting and curl to connect to Larkc REST APIs, create workflows and 
 sending queries to them.
+
+The code is split into three parts: 
+
+1. script/larkc-access-functions.sh
+A library that contains functions to access Larkc REST APIs. It was built so it could be reused by
+other scripts also.
+Implemented functions: 
+larkc_is_running - check to see if Larkc is running
+larkc_submit_workflow - submits the workflow description to the platform and returns the workflow id
+larkc_get_workflow_endpoint - obtains the endpoint URL of the given workflow id
+larkc_delete_workflow - deletes the workflow identified by the workflow id
+larkc_query_endpoint - sends a query to the given endpoint and returns the result
+larkc_file_query_endpoint - sends a query, read from file, to the given endpoint and returns the result
+
+2. script/autoquery.sh
+Script that takes as arguments a "workflow directory", creates the workflow from file workflow.ttl 
+and then sends the queries from "query*" or "queries*" files to the created workflow.
+
+3. run.sh
+Main script for starting Larkc Auto Query Tool.
 
 In order for the script to work, a certain directory structure is expected. Directory 
 "queries-to-execute" should contain other directories, called workflow directories. Each of these 
@@ -21,15 +41,15 @@ For each of the found "workflow directories", a new process is executed. This pr
 workflow.ttl file and send it to Larkc to create the workflow. Then queries will be read from the
 "query*" and "queries*" files and send one after another to the created Larkc workflow.
 
-Directory "examples" contain examples of such directory structure. Part of all of the examples directories
-can be copied into directory "queries-to-execute".
+Directory "examples" contain examples of such directory structure. Part of all of the examples 
+directories can be copied into directory "queries-to-execute".
 
 
 CONFIGURATION
 =============
 File configuration.sh is the place where LARKC Auto Query can be configured.
-It allows to define larkc platform URL location and the workflows endpoint name. Endpoint name must match 
-the name from workflow description files (workflow.ttl).
+It allows to define larkc platform URL location and the workflows endpoint name. Endpoint name must 
+match the name from workflow description files (workflow.ttl).
 
 
 RUNNING
