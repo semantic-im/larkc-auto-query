@@ -1,0 +1,2 @@
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?person ?gn ?fn WHERE { ?person foaf:title "Mr" .   ?person foaf:givenname ?gn .   ?person foaf:family_name ?fn.  }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?person1 ?name1  where { ?person1 foaf:knows ?person2 .       ?person1 foaf:name  ?name1 .  ?person2 foaf:name  ?name2 . }
