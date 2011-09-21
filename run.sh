@@ -51,6 +51,7 @@ cd "./queries-to-execute"
 for directory in * ; do
 	if [ -d "$directory" ]; then
 		"../script/autoquery.sh" "$directory" &
+		sleep 1
 	fi
 done
 # wait for the launched jobs to finish
