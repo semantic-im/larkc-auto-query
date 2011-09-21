@@ -1,2 +1,330 @@
 PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
 PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. ?x foaf:maker ?me. ?me foaf:name "Leigh Dodds". }
+PREFIX dc: <http://purl.org/dc/elements/1.1/> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT ?title ?date WHERE { ?x dc:title ?title. ?x dc:created ?date. }
