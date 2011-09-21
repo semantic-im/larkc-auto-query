@@ -46,6 +46,8 @@ if [ "$?" -ne 0 ]; then
 	exit 1
 fi
 
+start_time=`date +%s`
+
 # enumerate all directories from "queries-to-execute" directory
 cd "./queries-to-execute"
 for directory in * ; do
@@ -56,3 +58,6 @@ for directory in * ; do
 done
 # wait for the launched jobs to finish
 wait
+
+end_time=`date +%s`
+echo "Finished execution. Total execution time was `expr $end_time - $start_time` s."
