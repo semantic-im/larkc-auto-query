@@ -63,7 +63,7 @@ for queryfile in queries* ; do
 			output_query=`larkc_query_endpoint "$endpoint" "$query"`
 			echo "$1 - Query $count from file $queryfile result output size is ${#output_query}"
 			echo
-			#sleep 1s
+			sleep 0.1s
 		done < $queryfile		
 		echo "$1 - Finished processing $count queries from file $queryfile."
 	fi
@@ -80,7 +80,7 @@ for queryfile in query* ; do
 			echo "$1 - Query $count from file $queryfile result ERROR: $output_query"
 		else
 			echo "$1 - Query $count from file $queryfile result output size is ${#output_query}"
-			#sleep 1s
+			sleep 0.1s
 		fi
 	fi
 done
